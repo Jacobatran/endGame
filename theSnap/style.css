@@ -17,6 +17,7 @@
   }
 
   
+  /* Blue Outline Selected Is No Longer after Cick */
   #start-btn:focus {outline:0;}
 
 
@@ -43,3 +44,4 @@
   .dust {
     position: absolute;
   }
+
